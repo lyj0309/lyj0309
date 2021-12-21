@@ -1,12 +1,14 @@
 类别|badges
 :---:|:---:
-操作系统|[![-](https://img.shields.io/badge/Debian-a80030?style=flat-square&logo=debian&logoColor=white)]() [![-](https://img.shields.io/badge/Ubuntu-dd4714?style=flat-square&logo=ubuntu&logoColor=white)]()
+操作系统|![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows) [![-](https://img.shields.io/badge/Debian-a80030?style=flat-square&logo=debian&logoColor=white)]() [![-](https://img.shields.io/badge/Ubuntu-dd4714?style=flat-square&logo=ubuntu&logoColor=white)]() 
 编程语言|[![-](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white)]() [![-](https://img.shields.io/badge/Python-3772a2?style=flat-square&logo=python&logoColor=white)]() [![-](https://img.shields.io/badge/JavaScript-d4b41a?style=flat-square&logo=javascript&logoColor=white)]() 
-工具|[![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]()
+工具|![](https://img.shields.io/badge/-Jetbrains-grey?style=flat-square&logo=Jetbrains) [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]() ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)  
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyj0309&count_private=true)
 
+## 这个most used language有问题 = =
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyj0309)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lyj0309/lyj0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
