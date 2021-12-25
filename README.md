@@ -6,9 +6,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyj0309&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyj0309&count_private=true
 
-## 这个most used language有问题 = =
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyj0309)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lyj0309/lyj0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
