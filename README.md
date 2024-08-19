@@ -1,8 +1,3 @@
-type|badges
-:---:|:---:
-OS|![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows) [![-](https://img.shields.io/badge/Debian-a80030?style=flat-square&logo=debian&logoColor=white)]() [![-](https://img.shields.io/badge/Ubuntu-dd4714?style=flat-square&logo=ubuntu&logoColor=white)]() 
-Language|[![-](https://img.shields.io/badge/C%23-1a9e21?style=flat-square&logo=csharp&logoColor=white) ![-](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white)]() [![-](https://img.shields.io/badge/JavaScript-d4b41a?style=flat-square&logo=javascript&logoColor=white)]() 
-Tools|![](https://img.shields.io/badge/-Jetbrains-grey?style=flat-square&logo=Jetbrains) [![-](https://img.shields.io/badge/VSCode-0066b8?style=flat-square&logo=visualstudiocode&logoColor=white)]() ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)  
 
 
 
